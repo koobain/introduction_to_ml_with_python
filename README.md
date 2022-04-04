@@ -10,7 +10,7 @@ The books requires the current stable version of scikit-learn, that is
 0.20.0.  Most of the book can also be used with previous versions of
 scikit-learn, though you need to adjust the import for everything from the
 ``model_selection`` module, mostly ``cross_val_score``, ``train_test_split``
-and ``GridSearchCV``.xy
+and ``GridSearchCV``.
 
 
 This repository provides the notebooks from which the book is created, together
